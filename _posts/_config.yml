@@ -1,4 +1,7 @@
-title: The bean story
+---
+title: "The Bean Story"
+date: YYYY-MM-DD
+---
 author: beanb0i
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
