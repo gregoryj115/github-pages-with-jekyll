@@ -1,0 +1,15 @@
+---
+title: "The Bean Story"
+date: 2020-12-1
+---
+author: beanb0i
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+One time I was at a movie theater watching Cars 2 and I brought in a can of beans with the spoon. When one of the exciting moments happened I jupped up and because of that, the bean spilled all over my lap. 
+The worst part about it was some kid in the back saw and he said "This dude eating beans in a movie theater." It was the most embarrasing moment of my life.
+# social links
+twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
